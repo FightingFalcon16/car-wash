@@ -291,6 +291,7 @@ a {
 
 #services {
     padding: 6rem 0rem;
+    background-color: lightseagreen;
 }
 
 #services > .container > h1 {
