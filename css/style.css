@@ -54,6 +54,7 @@ a {
 #header {
     width: 100%;
     padding: 20px 0px;
+    background-color: lightgreen;
 }
 #header .costum_header{
     width: 100%;
